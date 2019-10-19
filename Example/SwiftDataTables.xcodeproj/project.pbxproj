@@ -165,7 +165,7 @@
 				0583155F2224644B004B4478 /* Classes */,
 			);
 			name = SwiftDataTables;
-			path = ../../SwiftDataTables;
+			path = ../../Sources/SwiftDataTables;
 			sourceTree = "<group>";
 		};
 		0583155F2224644B004B4478 /* Classes */ = {
@@ -183,7 +183,7 @@
 				058315742224644B004B4478 /* DataStore.swift */,
 				058315762224644B004B4478 /* SwiftDataTable.swift */,
 			);
-			path = Classes;
+			name = Classes;
 			sourceTree = "<group>";
 		};
 		058315602224644B004B4478 /* PaginationHeader */ = {
@@ -255,7 +255,8 @@
 				05D66E7922B981D0003004D9 /* DataTableFixedColumnTypeTests.swift */,
 				05D66E7022B94942003004D9 /* Info.plist */,
 			);
-			path = SwiftDataTablesTests;
+			name = SwiftDataTablesTests;
+			path = ../Tests/SwiftDataTablesTests;
 			sourceTree = "<group>";
 		};
 		05D66E7622B98083003004D9 /* Models */ = {
